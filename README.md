@@ -11,6 +11,9 @@ Sample python code using Jupyter Notebook
 - Imported 'Amazon Fine Food Reviews' Kaggle dataset to use as example. https://www.kaggle.com/snap/amazon-fine-food-reviews
 - Used to demonstrate frequently used analysis code.
 
+### Apply_HTML_To_Dataframe
+- Demonstrate applying HTML to pandas dataframe
+
 
 
 
