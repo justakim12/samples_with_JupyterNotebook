@@ -13,7 +13,3 @@ Sample python code using Jupyter Notebook
 
 ### Apply_HTML_To_Dataframe
 - Demonstrate applying HTML to pandas dataframe
-
-
-
-
