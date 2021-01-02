@@ -7,6 +7,9 @@ Sample python code using Jupyter Notebook
   **(Kaggle Study)Intro_to_NLP**
    - Study basic concepts of NLP via Kaggle. https://www.kaggle.com/matleonard/intro-to-nlp
 
+  **OOP_Python_Tutorial**
+   - Study the concepts of object oriented programming with python. https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc
+
 ### Analyze_Amazon_Reviews
 - Imported 'Amazon Fine Food Reviews' Kaggle dataset to use as example. https://www.kaggle.com/snap/amazon-fine-food-reviews
 - Used to demonstrate frequently used analysis code.
