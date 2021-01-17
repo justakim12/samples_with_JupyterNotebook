@@ -16,3 +16,6 @@ Sample python code using Jupyter Notebook
 
 ### Apply_HTML_To_Dataframe
 - Demonstrate applying HTML to pandas dataframe
+
+### Automate_BarChart_From_Excel
+- Automate creation of barchart with data in excel
