@@ -13,6 +13,9 @@ Sample python code using Jupyter Notebook
 ### Crawling_Naver
 - Crawl the search results of the search engine Naver and organize it into a pandas dataframe
 
+### Leetcode_Exercises
+- Use to practice leetcode questions
+
 ### Google_Image_Crawling(refactored)_211014
 - Crawl Google images using Google Colab
 
